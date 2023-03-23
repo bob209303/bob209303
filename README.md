@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a student at the University of Colorado studying Data Science. 
+I'm Harrison Fagan, a student at the University of Colorado studying Data Science. 
 
 ## About Me
 
@@ -12,9 +12,9 @@ I'm a student at the University of Colorado studying Data Science.
 ## Projects
 
 - 🚀 Here are some of the projects I've worked on:
-  - [Project 1](https://github.com/harryf3/janker): A python script that creates short videos out of top reddit posts.
-  - [Project 2](https://github.com/harryf3/JSmapmaker): A map maker in JS you can draw tiles and structures.
-  - [Project 3](https://github.com/harryf3/option-vol-spy-analysis): One of my Data Science class projects using stock market data to make predictions about the magnitude of price movements.
+  - [Janker](https://github.com/harryf3/janker): A python script that creates short videos out of top reddit posts.
+  - [JSmapmaker](https://github.com/harryf3/JSmapmaker): A map maker in JS you can draw tiles and structures.
+  - [Data Science Class Project](https://github.com/harryf3/option-vol-spy-analysis): One of my Data Science class projects using stock market data to make predictions about the magnitude of price movements.
 
 ## Skills
 
