@@ -29,7 +29,7 @@ I'm Harrison Fagan, a student at the University of Colorado studying Data Scienc
   
 ## Education
 
-- 🎓 I'm pursuing a Bachelor's/Master's degree in Data Science from the University of Colorado.
+- 🎓 I'm pursuing a Bachelor's degree in Data Science from the University of Colorado.
 - 📚 Some of the courses I've taken or plan to take include:
   - Data Structures
   - Applied Deep Learning
