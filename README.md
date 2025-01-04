@@ -12,7 +12,7 @@ I'm Harrison Fagan, a Data Scientist and Machine Learning Enthusiast
 
 - 🚀 Here are some of the projects I've worked on:
   - [Reddit Video Creator](https://github.com/harryf3/janker): A python script that creates short videos out of top reddit posts.
-  - [JSmapmaker](https://github.com/harryf3/JSmapmaker): A map maker in JS you can draw tiles and structures.
+  - [Cold Diffusion vs DDPM](https://github.com/harryf3/coldandddpm/tree/main): A comparison of two diffusion techniques
   - [Data Science Class Project](https://github.com/harryf3/option-vol-spy-analysis): One of my Data Science class projects using stock market data to make predictions about the magnitude of price movements.
 
 ## Skills
