@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Harrison Fagan, a student at the University of Colorado studying Data Science. 
+I'm Harrison Fagan, a Data Scientist and Machine Learning Enthusiast
 
 ## About Me
 
